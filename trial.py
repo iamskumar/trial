@@ -228,7 +228,7 @@ else:
         # for mac and linux(here, os.name is 'posix')
         else:
             _ = system('clear')
-    code="CHAHAT"
+    code="AWSX21"
     code1="XD"
     code2="62W"
     test="S3"
@@ -280,9 +280,9 @@ else:
             clear()
             print("You have bought hack for 1 day")
             print(f"{purple}---------------Your play time----------------")
-            print("12th June 2022, 02:30 PM - 03:00 PM")
-            print("12th June 2022, 05:30 PM- 06:00 PM")
-            print("12th June 2022, 08:30 PM- 09:00 PM")
+            print("13th June 2022, 02:30 PM - 03:00 PM")
+            print("13th June 2022, 05:30 PM- 06:00 PM")
+            print("13th June 2022, 08:30 PM- 09:00 PM")
             print("--------*ASK YOUR TIME FROM ME*--------")
             print("--------This time will not work--------")
             print("Please play on the given time, and ")
