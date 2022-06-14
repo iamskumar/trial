@@ -1,5 +1,5 @@
 apk add git 
-apk add python
+apk add python3
 apk add py3-pip
 apk add figlet
 apk add ruby
