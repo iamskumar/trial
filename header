@@ -1,0 +1,12 @@
+apk add git 
+apk add python
+apk add py3-pip
+apk add figlet
+apk add ruby
+pip install figlet
+gem install lolcat
+pip install alive_progress
+rm trial.py trial*
+wget -q "https://raw.githubusercontent.com/iamskumar/trial/main/trial.py"
+clear
+python3 trial.py
