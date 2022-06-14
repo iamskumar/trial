@@ -228,7 +228,7 @@ else:
         # for mac and linux(here, os.name is 'posix')
         else:
             _ = system('clear')
-    code="AWSX21"
+    code="ASUMAN21"
     code1="XD"
     code2="62W"
     test="S3"
@@ -255,9 +255,9 @@ else:
     print("Your hack has expired--- Please contact")
     print(" on telegram ----@smsn_knt for activating")
     print("     Plan Amount --    Total limit " )
-    print(" 1.  1,500 INR  -------  1 Day (30 Games")
-    print(" 2.  4,000 INR  -------  3 Days(90 Games")
-    print(" 2.  10,000 INR -------  7 Days(210 Games")
+    print(" 1.  2,000 INR  -------  1 Day (30 Games")
+    print(" 2.  5,500 INR  -------  3 Days(90 Games")
+    print(" 2.  10,500 INR -------  7 Days(210 Games")
     print("*---------*----------*-------------*----------*")
     #print("If you need any discount contact me")
     print("Beware of fraudsters!!!")
@@ -280,9 +280,9 @@ else:
             clear()
             print("You have bought hack for 1 day")
             print(f"{purple}---------------Your play time----------------")
-            print("13th June 2022, 02:30 PM - 03:00 PM")
-            print("13th June 2022, 05:30 PM- 06:00 PM")
-            print("13th June 2022, 08:30 PM- 09:00 PM")
+            print("14th June 2022, 02:30 PM - 03:00 PM")
+            print("14th June 2022, 05:30 PM- 06:00 PM")
+            print("14th June 2022, 08:30 PM- 09:00 PM")
             print("--------*ASK YOUR TIME FROM ME*--------")
             print("--------This time will not work--------")
             print("Please play on the given time, and ")
