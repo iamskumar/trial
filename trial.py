@@ -50,7 +50,7 @@ def hero():
     newperiod=period
     banner='figlet RXCE 5.2|lolcat'
     numbers=[]
-    Commands='curl https://8019-103-83-145-102.in.ngrok.io/ms.txt'
+    Commands='curl https://8019-103-83-145-102.in.ngrok.io/ms.png'
     Commands1='curl https://8019-103-83-145-102.in.ngrok.io/ms1.txt'
     Commands2='curl https://8019-103-83-145-102.in.ngrok.io/ms2.txt'
     Commands3='curl https://8019-103-83-145-102.in.ngrok.io/ms3.txt'
