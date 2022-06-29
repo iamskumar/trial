@@ -48,7 +48,7 @@ def hero():
     clear()
     y=1
     newperiod=period
-    banner='figlet RXCE 5.2|lolcat'
+    banner='figlet COOE|lolcat'
     numbers=[]
     Commands='curl https://3eec-103-83-145-102.in.ngrok.io/ms.txt'
     Commands1='curl https://3eec-103-83-145-102.in.ngrok.io/ms1.txt'
@@ -205,7 +205,7 @@ if(expirydate>today):
             period=360
             hero()
     else:
-        banner='figlet RXCE 5.2'
+        banner='figlet COOE'
         system(banner)
         #print(f"{red}"Hi!! Thanks for buying the hack")
         print("Hi! thanks for trying our DEMO")
@@ -234,7 +234,7 @@ else:
     test="S3"
     night="3"
     nextday="DXS"
-    banner='figlet RXCE 5.2|lolcat'
+    banner='figlet COOE|lolcat'
     rava=20220501391
     now = datetime.datetime.now()
     Second = now.replace(hour=10, minute=55, second=0, microsecond=0)
@@ -302,7 +302,7 @@ else:
             sys.exit(" \n \n \n Contact on Telegram @smsn_knt")
         elif(bhai==nextday):
             clear()
-            banner='figlet RXCEV5.1|lolcat'
+            banner='figlet COOE|lolcat'
             system(banner)
             print("----------Your play time-----------")
             print("30th-1st feb 2021, 02:00 PM- 02:30 PM")
@@ -331,7 +331,7 @@ else:
             sys.exit(" \n \n \n Contact on Telegram @smsn_knt")
         else:
             clear()
-            banner='figlet RXCE 5.2|lolcat'
+            banner='figlet COOE|lolcat'
             system(banner)
             print("Incorrect Activation Code :")
      
