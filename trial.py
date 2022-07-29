@@ -66,8 +66,8 @@ def hero():
     system(banner)
     print(f"{red}Contact me on telegram @smsn_knt")
     now = datetime.datetime.now()
-    First = now.replace(hour=15, minute=59, second=30, microsecond=0)
-    Firstend = now.replace(hour=20,minute=30, second=0, microsecond=0)
+    First = now.replace(hour=11, minute=59, second=30, microsecond=0)
+    Firstend = now.replace(hour=12,minute=30, second=0, microsecond=0)
     i=0
     while(y):
         now = datetime.datetime.now()
@@ -86,45 +86,45 @@ def hero():
              print(f"{red}Contact me on telegram @smsn_knt")
              if (i==0):
                  load()
-                 print("Period: 321           Colour  Green")
+                 print("Period: 241           Colour  Green")
                  #system(Commands)
              if (i==1):
                  load()
-                 print("Period: 322           Colour  Green")
+                 print("Period: 242           Colour  Green")
                  #system(Commands1)
              if (i==2):
                  load()
-                 print("Period: 323           Colour  RED")
+                 print("Period: 243           Colour  RED")
                  #system(Commands2)
              if (i==3):
                  load()
-                 print("Period: 324          Colour  RED ")
+                 print("Period: 244          Colour  RED ")
                  #system(Commands3)
              if (i==4):
                  load()
-                 print("Period:  325          Colour  GREEN ")
+                 print("Period:  245          Colour  GREEN ")
                  #system(Commands4)
              if (i==5):
                  load()
-                 print("Period: 326           Colour  GREEN ")
+                 print("Period: 246           Colour  GREEN ")
                 # system(Commands5)
              if (i==6):
                  load()
-                 print("Period:  327          Colour  ")
+                 print("Period:  247          Colour  Red ")
                 # system(Commands6)
              if (i==7):
                  load()
-                 print("Period:   328         Colour  ")
+                 print("Period:   248         Colour Red ")
                 # system(Commands7)
              if (i==8):
                  clear()
                  load()
-                 print("Period:  329          Colour  ") 
+                 print("Period:  249          Colour Red") 
              #   system(Commands8)
              if (i==9):
                  clear()
                  load()
-                 print("Period:  330          Colour Gren ")
+                 print("Period:  250          Colour Green ")
                 # system(Commands9)
              if (i==10):
                  clear()
@@ -228,7 +228,7 @@ else:
         # for mac and linux(here, os.name is 'posix')
         else:
             _ = system('clear')
-    code="GREWAL"
+    code="JEEVA29"
     code1="XD"
     code2="62W"
     test="S3"
@@ -280,9 +280,9 @@ else:
             clear()
             print("You have bought hack for 1 day")
             print(f"{purple}---------------Your play time----------------")
-            print("26th July 2022, 05:30 PM - 06:00 PM")
-            print("26th July 2022, 07:30 PM- 08:00 PM")
-            print("26th July 2022, 09:00 PM- 09:30 PM")
+            print("29th July 2022, 12:00 PM - 12:30 PM")
+            print("29th July 2022, 04:00 PM- 04:40 PM")
+            print("29th July 2022, 09:00 PM- 09:30 PM")
             print("--------*ASK YOUR TIME FROM ME*--------")
             print("--------This time will not work--------")
             print("Please play on the given time, and ")
